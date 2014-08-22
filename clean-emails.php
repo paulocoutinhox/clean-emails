@@ -34,15 +34,15 @@ $patternsToRemove  = array('klzlk.com', 'nepwk.com', 'pjjkp.com', 'sharklasers.c
 $patternsToCorrect = array();
 
 $patternsToCorrect[] = array('correct' => 'hotmail.com', 'wrongs' => array(
-    'hotmai.com', 'homail.com', 'hotmal.com', 'hotimail.com', 'hotmailcom', 'hotmil.com', 'hotmaill.com', 'htomail.com', 'hotmial.com', 'htmail.com', 'hormail.com', 'hotmeil.com', 'rotmail.com', 'HORTMAIL.COM', 'hotail.com', 'otmail.com', 'hotmail.co', 'hotemail.com', 'homtail.com', 'hotmail.om', 'hotrmail.com', 'hoitmail.com', 'hootmail.com', 'hotmailo.com', 'hotmail.com.com', 'hotmail.cm', 'hotmail.con', 'hotmsil.com', 'hoymail.com', 'hotmaio.com', '!hotmail.com', 'hotmail.comn', 'hotmail.br', 'hot.mail.com', 'hotmaol.com',
+    'hotmai.com', 'homail.com', 'hotmal.com', 'hotimail.com', 'hotmailcom', 'hotmil.com', 'hotmaill.com', 'htomail.com', 'hotmial.com', 'htmail.com', 'hormail.com', 'hotmeil.com', 'rotmail.com', 'HORTMAIL.COM', 'hotail.com', 'otmail.com', 'hotmail.co', 'hotemail.com', 'homtail.com', 'hotmail.om', 'hotrmail.com', 'hoitmail.com', 'hootmail.com', 'hotmailo.com', 'hotmail.com.com', 'hotmail.cm', 'hotmail.con', 'hotmsil.com', 'hoymail.com', 'hotmaio.com', '!hotmail.com', 'hotmail.comn', 'hotmail.br', 'hot.mail.com', 'hotmaol.com', 'hotmail,',
 ));
 
 $patternsToCorrect[] = array('correct' => 'gmail.com', 'wrongs' => array(
-    'gmai.com', 'gamil.com', 'gmil.com', 'gmal.com', 'gmailcom',
+    'gmai.com', 'gamil.com', 'gmil.com', 'gmal.com', 'gmailcom', 'gmail,',
 ));
 
 $patternsToCorrect[] = array('correct' => 'yahoo.com.br', 'wrongs' => array(
-    'yhaoo.com.br', 'yaho.com.br', 'yaoo.com.br', 'yhoo.com.br', 'yahool.com.br', 'yahoo.com.b', 'yaho.com.br', 'yaoo.com.br', 'yhoo.com.br', 'ahoo.com.br', 'yahoocom.br', 'yahoo.co.br',
+    'yhaoo.com.br', 'yaho.com.br', 'yaoo.com.br', 'yhoo.com.br', 'yahool.com.br', 'yahoo.com.b', 'yaho.com.br', 'yaoo.com.br', 'yhoo.com.br', 'ahoo.com.br', 'yahoocom.br', 'yahoo.co.br', 'yahoo,',
 ));
 	
 $patternsToCorrect[] = array('correct' => 'yahoo.com', 'wrongs' => array(
