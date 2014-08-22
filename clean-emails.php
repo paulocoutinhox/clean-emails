@@ -130,4 +130,4 @@ $linesAfter = shell_exec("cat $file | wc -l");
 debug('Number of lines before cleanup: ' . (int)$linesBefore);
 debug('Number of lines after cleanup: ' . (int)$linesAfter);
 
-debug('Success - Your file is clean now!');
+debug('SUCCESS - Your file is clean now!');
